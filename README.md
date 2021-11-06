@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suddhaswatta
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Nest Js Microservices
+- 👀 I’m interested in building Apps
+- 🌱 I’m currently learning lots of tech
 - 💞️ I’m looking to collaborate on Multiple Projects. 
 - 📫 How to reach me +91 9123008650
 
